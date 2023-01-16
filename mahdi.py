@@ -1,0 +1,2 @@
+import HAMII
+menu() 
